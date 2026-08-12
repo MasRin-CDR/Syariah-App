@@ -1,0 +1,6 @@
+{
+  "name": "Syariah App",
+  "description": "Platform edukasi Islam digital yang menyediakan sumber belajar Al-Qur'an, Hadis, Kalkulator Waris, dan materi syariah interaktif untuk jenjang SD, SMP, SMA, dan Mahasiswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
